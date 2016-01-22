@@ -1,0 +1,22 @@
+ipython{
+	2.7
+	anaconda
+	
+}
+git{
+	
+}
+NumPy{
+	numerical python, basic
+}
+pandas{
+	dimentional arrays
+	time serise
+	data frame(dimentional arrays)
+}
+matplotlib{
+	
+}
+Scipy{
+	
+}
